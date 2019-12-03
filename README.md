@@ -1,5 +1,5 @@
 # Distributed-system-pro1
-Java
+This project was writen in Java
 
 This is the project1 of Distributed system in Uni Melbourne, Unstructured P2P Network
 
